@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Test History</string>
+    <string name="klik_untuk_menuju_history">Klik untuk menuju history</string>
+    <string name="kode_transaksi">Kode Transaksi</string>
+    <string name="tidak_ada_riwayat_transaksi">Tidak ada riwayat transaksi</string>
+    <string name="history">HISTORY</string>
+    <string name="reorder">REORDER</string>
+    <string name="id_order">ID Order</string>
+    <string name="belum_ada_transaksi">Belum Ada Transaksi</string>
+    <string name="kode_transaksi">Kode Transaksi</string>
+    <string name="tanggal">Tanggal</string>
+</resources>
